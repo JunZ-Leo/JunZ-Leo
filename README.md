@@ -1,6 +1,5 @@
 # JunZ-Leo
 
-Security research, Go networking, and Windows deployment automation.
 
 [Website](https://jorgeliu.com) | [Security reports](https://github.com/JunZ-Leo/CVE)
 
